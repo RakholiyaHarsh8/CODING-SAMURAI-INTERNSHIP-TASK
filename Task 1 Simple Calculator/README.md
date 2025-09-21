@@ -1,5 +1,1 @@
-
-
-
-https://github.com/user-attachments/assets/e059e99d-6473-458a-9663-cbd9329ac46b 
-https://github.com/RakholiyaHarsh8/CODING-SAMURAI-INTERNSHIP-TASK/blob/master/Task%201%20Simple%20Calculator/Calculator%20Python.mp4
+<img width="473" height="874" alt="Screenshot 2025-09-21 131528" src="[https://github.com/user-attachments/assets/3d9ff439-af7e-4638-b2b6-01f856120447](https://github.com/RakholiyaHarsh8/CODING-SAMURAI-INTERNSHIP-TASK/blob/master/Task%201%20Simple%20Calculator/image.png)" />
