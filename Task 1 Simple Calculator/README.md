@@ -1,1 +1,6 @@
 <img width="473" height="874" alt="Screenshot 2025-09-21 131528" src="https://github.com/RakholiyaHarsh8/CODING-SAMURAI-INTERNSHIP-TASK/blob/master/Task%201%20Simple%20Calculator/Screenshot%202025-09-21%20131528.png" />
+
+
+
+https://github.com/RakholiyaHarsh8/CODING-SAMURAI-INTERNSHIP-TASK/blob/master/Task%201%20Simple%20Calculator/Calculator%20Python.mp4
+
